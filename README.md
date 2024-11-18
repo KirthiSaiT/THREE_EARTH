@@ -1,1 +1,0 @@
-# THREE.js Earth scene
